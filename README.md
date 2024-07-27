@@ -1,1 +1,1 @@
-shequla.com redirects www.shequla.com
+shequla.com redirects https://www.shequla.com
